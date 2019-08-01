@@ -1,0 +1,6 @@
+
+
+var fibonacci =  new NumeroDeFibonacci;
+
+
+
